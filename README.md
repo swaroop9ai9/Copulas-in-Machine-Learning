@@ -1,7 +1,7 @@
 ## Copulas in Machine Learning
 Implementation of Lightning-speed Structure Learning, Where we learn the automated structure using Rho Spearman's Coefficient. 
 
-![src](1.png) 
+![src](/images/1.png) 
 ![src](2.png) 
 ![src](3.png) 
 ![src](4.png) 
